@@ -1,0 +1,29 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "homework node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevpatricia/liri.git"
+  },
+  "keywords": [
+    "liri",
+    "twitter",
+    "spotify",
+    "imdb"
+  ],
+  "author": "Pat Carlson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevpatricia/liri/issues"
+  },
+  "homepage": "https://github.com/webdevpatricia/liri#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter-stream-api": "^0.5.2"
+  }
+}
