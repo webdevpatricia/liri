@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/webdevpatricia/liri#readme",
   "dependencies": {
+    "inquirer": "^5.0.1",
     "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1",
-    "twitter-node-client": "git+https://github.com/BoyCook/TwitterJSClient.git",
-    "twitter-stream-api": "^0.5.2"
+    "twitter-node-client": "git+https://github.com/BoyCook/TwitterJSClient.git"
   }
 }
